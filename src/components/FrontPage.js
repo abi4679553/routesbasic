@@ -12,7 +12,7 @@ export default function FrontPage() {
         <IoIosHeartEmpty />
         <p>wjhcjqll</p>
         </div>
-        <img src={img1}  alt='img1' className='h-[300px] w-full'/>
+        <img src={img1}  alt='img1' className='h-[300px] w-80  ml-[40%] ' />
         <Home />
         <About />
         <Delivery />
