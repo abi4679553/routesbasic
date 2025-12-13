@@ -7,6 +7,8 @@ const Footer = () => {
         <p>Whats app</p>
         <p>Insta</p>
         <p>contact</p>
+        <p>Phone </p>
+        <p>Linked-In</p>
     </div>
   )
 }
