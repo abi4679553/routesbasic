@@ -12,6 +12,7 @@ export default function FrontPage() {
         <IoIosHeartEmpty />
         <p>wjhcjqll</p>
         </div>
+        <p className='text-3xl text-blue-700  text-center m-10'>Welcome My WebPage !!</p>
         <img src={img1}  alt='img1' className='h-[300px] w-80  ml-[40%] ' />
         <Home />
         <About />
